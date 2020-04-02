@@ -1,0 +1,14 @@
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\bin\Debug\HowCanPams.exe.config
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\obj\Debug\HowCanPams.csprojResolveAssemblyReference.cache
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\obj\Debug\HowCanPams.HowCanPams.resources
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\obj\Debug\HowCanPams.Properties.Resources.resources
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\obj\Debug\HowCanPams.csproj.GenerateResource.Cache
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\bin\Debug\HowCanPams.exe
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\bin\Debug\HowCanPams.pdb
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\bin\Debug\GMap.NET.Core.dll
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\bin\Debug\GMap.NET.Core.xml
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\obj\Debug\HowCanPams.exe
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\obj\Debug\HowCanPams.pdb
+C:\Users\Reza\Documents\Visual Studio 2012\Projects\HowCanPams\HowCanPams\obj\Debug\HowCanPams.HCPsControls.HCPsControlsResource.resources
